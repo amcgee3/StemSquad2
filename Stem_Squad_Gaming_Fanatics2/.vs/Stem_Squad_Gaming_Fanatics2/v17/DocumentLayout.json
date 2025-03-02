@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|c:\\users\\amcge\\source\\repos\\stem_squad_gaming_fanatics2\\patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|solutionrelative:patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|solutionrelative:patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|solutionrelative:patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\lookupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|solutionrelative:lookupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45980B8C-627D-44DB-BC46-09C1CCE9B007}|Stem_Squad_Gaming_Fanatics2.csproj|solutionrelative:patientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 626,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lookupForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\lookupForm.Designer.cs",
+              "RelativeDocumentMoniker": "lookupForm.Designer.cs",
+              "ToolTip": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\lookupForm.Designer.cs",
+              "RelativeToolTip": "lookupForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwGcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:40:16.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "patientForm.cs",
+              "DocumentMoniker": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientForm.cs",
+              "RelativeDocumentMoniker": "patientForm.cs",
+              "ToolTip": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientForm.cs",
+              "RelativeToolTip": "patientForm.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAApwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:30:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "patientForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientForm.cs",
+              "RelativeDocumentMoniker": "patientForm.cs",
+              "ToolTip": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\patientForm.cs [Design]",
+              "RelativeToolTip": "patientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:03:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientView.cs",
+              "DocumentMoniker": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\PatientView.cs",
+              "RelativeDocumentMoniker": "PatientView.cs",
+              "ToolTip": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\PatientView.cs",
+              "RelativeToolTip": "PatientView.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:02:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\PatientView.cs",
+              "RelativeDocumentMoniker": "PatientView.cs",
+              "ToolTip": "C:\\Users\\amcge\\source\\repos\\Stem_Squad_Gaming_Fanatics2\\PatientView.cs [Design]",
+              "RelativeToolTip": "PatientView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:02:08.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

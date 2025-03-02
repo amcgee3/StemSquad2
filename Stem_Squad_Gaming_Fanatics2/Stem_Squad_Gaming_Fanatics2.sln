@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stem_Squad_Gaming_Fanatics2", "Stem_Squad_Gaming_Fanatics2.csproj", "{45980B8C-627D-44DB-BC46-09C1CCE9B007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45980B8C-627D-44DB-BC46-09C1CCE9B007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45980B8C-627D-44DB-BC46-09C1CCE9B007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45980B8C-627D-44DB-BC46-09C1CCE9B007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45980B8C-627D-44DB-BC46-09C1CCE9B007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8FF2F3-3277-4AE7-A397-4EF71C2755B3}
+	EndGlobalSection
+EndGlobal
